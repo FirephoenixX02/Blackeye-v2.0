@@ -281,7 +281,7 @@ exit 1
 }
 
 getcredentials() {
-printf "\e[1;93m[\e[0m\e[1;77m*\e[0m\e[1;93m] Waiting credentials ...\e[0m\n"
+printf "\e[1;93m[\e[0m\e[1;77m*\e[0m\e[1;93m] Waiting for credentials ...\e[0m\n"
 while [ true ]; do
 
 
@@ -440,7 +440,7 @@ checkfound
 checkfound() {
 
 
-printf "\e[1;93m[\e[0m\e[1;77m*\e[0m\e[1;93m] Waiting victim open the link ...\e[0m\n"
+printf "\e[1;93m[\e[0m\e[1;77m*\e[0m\e[1;93m] Waiting for the victim to open the link ...\e[0m\n"
 while [ true ]; do
 
 
