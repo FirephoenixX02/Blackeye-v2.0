@@ -15,5 +15,6 @@ Usage of BlackEye for attacking targets without prior mutual consent is illegal.
 ```
 git clone https://github.com/FirephoenixX02/blackeye-v2.1
 cd blackeye-v2.1
+chmod +x blackeye.sh
 bash blackeye.sh
 ```
